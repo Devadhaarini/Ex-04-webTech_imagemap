@@ -199,12 +199,18 @@ temple.html
 
 
 # Output:
-![Alt text](<../Screenshot 2023-11-22 105041.png>)
-![Alt text](<../Screenshot 2023-11-23 084648.png>)
-![Alt text](<../Screenshot 2023-11-23 084712.png>)
-![Alt text](<../Screenshot 2023-11-23 084818.png>)
-![Alt text](<../Screenshot 2023-11-23 084857.png>)
-![Alt text](<../Screenshot 2023-11-23 085238.png>)
+
+![Screenshot 2023-11-22 105041](https://github.com/Devadhaarini/Ex-04-webTech_imagemap/assets/145796552/26d86e71-49f3-4373-8302-74b233afcd82)
+
+![Screenshot 2023-11-23 084648](https://github.com/Devadhaarini/Ex-04-webTech_imagemap/assets/145796552/cbac0e09-aed3-4327-b7f9-0649d46fdad3)
+
+![Screenshot 2023-11-23 084712](https://github.com/Devadhaarini/Ex-04-webTech_imagemap/assets/145796552/633edd75-475b-498e-ac38-dc0bff590232)
+
+![Screenshot 2023-11-23 084818](https://github.com/Devadhaarini/Ex-04-webTech_imagemap/assets/145796552/c6db8b72-251f-4480-9d75-3c965355a457)
+
+![Screenshot 2023-11-23 084857](https://github.com/Devadhaarini/Ex-04-webTech_imagemap/assets/145796552/712877fd-158f-40f5-acc4-8d472ea2bd69)
+
+![Screenshot 2023-11-23 085238](https://github.com/Devadhaarini/Ex-04-webTech_imagemap/assets/145796552/8438e115-d508-42c0-9103-38185db8e4dd)
 
 # Result:
 The program implementing image maps using HTML is executed successfully.
